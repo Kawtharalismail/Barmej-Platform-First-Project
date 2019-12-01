@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">Place Suggestion</string>
+    <string name="Next">التالي</string>
+    <string name="Before">السابق</string>
+    <string name="Suggest">اقترح</string>
+
+
+    <string-array name="placesName">
+        <item>Beach</item>
+        <item>Shop</item>
+        <item>Football</item>
+        <item>Museum</item>
+        <item>Park</item>
+        <item>Walking</item>
+        <item>Swimming</item>
+
+    </string-array>
+
+
+
+</resources>
